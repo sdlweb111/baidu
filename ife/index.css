@@ -1,0 +1,15 @@
+p {
+	font: 14px/25px 宋体;
+color: #666;
+}
+.left: {
+	float: left;
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	margin-right: 15px;
+	color: #666;
+
+}
+h2 {font-size: 16px;
+font-weight: bold;}
